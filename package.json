@@ -2,8 +2,8 @@
   "name": "myntra",
   "version": "1.0.0",
   "scripts": {
-   "dev": "parcel src/myntra.html",
-    "build": "parcel build src/myntra.html"
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "author": "",
   "license": "ISC",
