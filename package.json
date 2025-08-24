@@ -24,6 +24,7 @@
     "parcel": "^2.15.4"
   },
   "optionalDependencies": {
-    "@parcel/rust-linux-x64-gnu": "^2.15.4"
+    "@parcel/rust-linux-x64-gnu": "^2.15.4",
+    "@parcel/watcher-linux-x64-glibc": "^2.5.1"
   }
 }
