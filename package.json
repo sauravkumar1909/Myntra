@@ -22,5 +22,8 @@
     "@parcel/transformer-html": "^2.15.4",
     "@parcel/transformer-js": "^2.15.4",
     "parcel": "^2.15.4"
+  },
+  "optionalDependencies": {
+    "@parcel/rust-linux-x64-gnu": "^2.15.4"
   }
 }
